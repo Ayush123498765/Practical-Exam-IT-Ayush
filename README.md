@@ -1,13 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-<style>
-table, th, td {
-  border: 1px solid rgb(248, 5, 5);
-}
-
-</style>
-</head>
 <body>
     
 <table style="width:40%">
